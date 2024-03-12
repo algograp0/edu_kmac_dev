@@ -104,4 +104,4 @@ spark_df.write.format("delta").mode("append").saveAsTable('edu_titanic.05_result
 
 # COMMAND ----------
 
-
+# push pull test
